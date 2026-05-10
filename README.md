@@ -35,11 +35,20 @@ TradingView Alert → Webhook → TradeExecutor → Broker Order
 - **ACP agent endpoint**: [tradeexecutor.ai/agents](https://tradeexecutor.ai/agents)
 - **ACP discovery**: `GET https://tradeexecutor.ai/.well-known/agent-purchase.json`
 
-## Track Record
 
-All results published — wins and losses. No cherry-picking. No hiding the bad months.
+## Track Record — May 2026
 
-[View published results →](https://tradeexecutor.ai)
+All results published. Wins and losses. No cherry-picking.
+
+The execution gap costs traders more than they realize:
+- Average manual latency from signal to order: 2–4 minutes
+- TradeExecutor latency: milliseconds
+- Emotional exit deviations: eliminated
+- Missed overnight signals: eliminated
+
+[View current results →](https://tradeexecutor.ai)
+
+**One payment. No subscription. Hard-capped licenses.**
 
 ## Pricing
 
