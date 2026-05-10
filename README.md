@@ -36,6 +36,7 @@ TradingView Alert → Webhook → TradeExecutor → Broker Order
 - **ACP discovery**: `GET https://tradeexecutor.ai/.well-known/agent-purchase.json`
 
 
+
 ## Track Record — May 2026
 
 All results published. Wins and losses. No cherry-picking.
