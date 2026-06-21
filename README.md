@@ -42,6 +42,7 @@ TradingView Alert → Webhook → TradeExecutor → Broker Order
 
 
 
+
 ## Track Record — June 2026
 
 All results published. Wins and losses. No cherry-picking.
